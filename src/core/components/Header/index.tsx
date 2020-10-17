@@ -6,7 +6,7 @@ const Header = () => (
     <header className="header-container">
         <Link to="/">
             <div className="logo-text">
-                Bootcamp DevSuperior
+                <span>Bootcamp DevSuperior</span>
             </div>
         </Link>
     </header>
