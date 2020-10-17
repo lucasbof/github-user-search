@@ -1,0 +1,21 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #E5E5E5;
+}
+  
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+  
+button:focus {
+    outline: none;
+}
