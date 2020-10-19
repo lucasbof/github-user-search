@@ -1,0 +1,11 @@
+.additional-container {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+    padding: 1px 14px;
+    border-radius: 6px;
+}

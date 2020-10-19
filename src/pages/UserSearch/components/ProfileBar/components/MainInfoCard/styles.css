@@ -1,0 +1,16 @@
+.main-info-container {
+    padding: 8px 17px 12px 14px;
+}
+
+.main-info-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1890FF;
+    margin-bottom: 19px;
+}
+
+.main-info-cards {
+    display: flex;
+    flex-direction: column;
+}

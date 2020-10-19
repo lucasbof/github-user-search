@@ -19,3 +19,11 @@ button {
 button:focus {
     outline: none;
 }
+
+.info-card-base {
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+}

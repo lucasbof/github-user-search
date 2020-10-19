@@ -1,0 +1,18 @@
+.loader-container {
+    background: #F5F5F5;
+    border-radius: 8px;
+    padding: 24px 43px 48px 30px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.image-loader {
+    width: 278px;
+    height: 315px;
+}
+
+.info-loader {
+    margin-left: 54px;
+    width: 846px;
+    height: 253px;
+}
